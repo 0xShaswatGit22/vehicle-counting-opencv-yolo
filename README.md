@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dab2de3a-eb64-4a5d-a278-5b185451807b" />
+<img width="1575" height="925" alt="image" src="https://github.com/user-attachments/assets/33b8eaa7-1677-4339-9c99-226626458633" />
 # 🚗 Vehicle Counting using YOLOv8 & OpenCV
 
 A simple **Computer Vision project** that detects and counts vehicles in a video using **YOLOv8** and **OpenCV**.
